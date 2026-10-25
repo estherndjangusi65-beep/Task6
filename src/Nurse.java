@@ -7,6 +7,6 @@ public class Nurse extends MedicalStaff{
 
     @Override
     public void PatientCare() {
-        System.out.println("Nurse: monitors patients and gives injections.");
+        System.out.println("Nurse: monitors patients, gives injections and records vital signs.");
     }
 }
