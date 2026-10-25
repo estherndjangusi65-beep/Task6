@@ -7,6 +7,6 @@ public class Pharmacist extends MedicalStaff {
 
     @Override
     public void PatientCare() {
-        System.out.println("Pharmacist: dispenses medicine to patients.");
+        System.out.println("Pharmacist: dispenses medicines and explains their proper use to patients.");
     }
 }
