@@ -1,7 +1,7 @@
 public class Doctor extends MedicalStaff {
     public Doctor() {
         EmployeeID = 201;
-        Department = "Surgery";
+        Department = "General Surgery";
         WorkingHours = 40;
     }
     @Override
