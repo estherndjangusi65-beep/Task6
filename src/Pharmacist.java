@@ -1,7 +1,7 @@
 public class Pharmacist extends MedicalStaff {
     public Pharmacist() {
         EmployeeID = 203;
-        Department = "Pharmacy";
+        Department = "Hospital Pharmacy";
         WorkingHours = 40;
     }
 
