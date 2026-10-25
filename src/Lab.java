@@ -2,7 +2,7 @@ public class Lab extends MedicalStaff {
     public Lab() {
         EmployeeID = 204;
         Department = "Laboratory";
-        WorkingHours = 36;
+        WorkingHours = 40;
     }
 
     @Override
