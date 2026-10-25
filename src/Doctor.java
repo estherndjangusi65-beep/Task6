@@ -6,6 +6,6 @@ public class Doctor extends MedicalStaff {
     }
     @Override
     public void PatientCare() {
-        System.out.println("Doctor: examines patients and prescribes treatment.");
+        System.out.println("Doctor: examines patients, diagnoses illnesses and prescribes treatment.");
     }
 }
