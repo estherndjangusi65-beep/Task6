@@ -4,7 +4,7 @@ public class Main {
         Nurse n=new Nurse();
         Pharmacist p=new Pharmacist();
         Lab l= new Lab();
-        System.out.println("..Mukono Hospital Staff..");
+        System.out.println("...MUKONO HOSPITAL MEDICAL STAFF..");
         System.out.println();
 
         d.ShowStaffInfo();
