@@ -1,7 +1,7 @@
 public class Nurse extends MedicalStaff{
     public Nurse() {
         EmployeeID = 202;
-        Department = "Maternity";
+        Department = "Maternity Ward";
         WorkingHours = 48;
     }
 
