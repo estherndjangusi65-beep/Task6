@@ -7,6 +7,6 @@ public class Lab extends MedicalStaff {
 
     @Override
     public void PatientCare() {
-        System.out.println("Pharmacist: dispenses medicine to patients.");
+        System.out.println("lab: collects samples, performs laboratory tests, and reports results.");
     }
 }
